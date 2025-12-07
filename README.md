@@ -1,7 +1,7 @@
-# 📊 data-science-group17
+# 📊 U of Waterloo - Machine Learning
 
-## Foundations of Data Science - Assignment 3 - Miguel Morales
-Foundations of Data Science Assignment 3 GitHub repository!
+## Machine Learning - Assignment 4 - Miguel Morales
+Machine Learning Assignment 4 GitHub repository!
 
 ## 📁 Repository Structure
 
